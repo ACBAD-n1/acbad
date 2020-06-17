@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1 style="background-color: red;"> Premiere utiliation de git </h1>
+    <h1 style="background-color: #000;"> Premiere utiliation de git </h1>
 </body>
 </html>
